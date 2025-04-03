@@ -30,3 +30,10 @@ Este projeto é um **simulador de conta bancária** desenvolvido em Java. Ele pe
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+---
+
+##  Demonstração
+
+![image](https://github.com/user-attachments/assets/d01dd911-c4d6-454a-92bb-433874be63e9)
+
