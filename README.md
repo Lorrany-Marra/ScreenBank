@@ -24,6 +24,10 @@ Este projeto é um **simulador de conta bancária** desenvolvido em Java. Ele pe
 -  Verificação de saldo para transferências
 -  Interface amigável no console
 
+## Demonstração
+
+![image](https://github.com/user-attachments/assets/d01dd911-c4d6-454a-92bb-433874be63e9)
+
 ---
 
 ##  Como executar
@@ -31,9 +35,5 @@ Este projeto é um **simulador de conta bancária** desenvolvido em Java. Ele pe
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
----
 
-##  Demonstração
-
-![image](https://github.com/user-attachments/assets/d01dd911-c4d6-454a-92bb-433874be63e9)
 
